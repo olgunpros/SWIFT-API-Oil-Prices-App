@@ -1,0 +1,72 @@
+[
+  {
+    "pharmacyName": "Yildiz",
+    "district": "Pendik",
+    "address": "Sahil yolu, No:43 Esen cadde.",
+    "latitude": 40.8957,
+    "longitude": 29.2642
+  },
+  {
+    "pharmacyName": "Tuna",
+    "district": "Maltepe",
+    "address": "D100 Otobanı çıkışında.",
+    "latitude": 40.9266,
+    "longitude": 29.1452
+  },
+  {
+    "pharmacyName": "Güven",
+    "district": "Çorlu",
+    "address": "İstanbul çıkışına 5 dakika uzaklıkta.",
+    "latitude": 41.1608,
+    "longitude": 27.7984
+  },
+  {
+    "pharmacyName": "Tibet",
+    "district": "Ege",
+    "address": "Ege Üniversitesi yanı, Çan sokak.",
+    "latitude": 38.4274,
+    "longitude": 27.1362
+  },
+  {
+    "pharmacyName": "Kalyon",
+    "district": "Sultanbeyli",
+    "address": "Sultanbeyli otogarı yanı, Rize sokak.",
+    "latitude": 40.9653,
+    "longitude": 29.2553
+  },
+  {
+    "pharmacyName": "Eczane ABC",
+    "district": "Kadıköy",
+    "address": "Bağdat Caddesi, No:123",
+    "latitude": 40.9828,
+    "longitude": 29.0403
+  },
+  {
+    "pharmacyName": "Sağlık Eczanesi",
+    "district": "Beşiktaş",
+    "address": "Beşiktaş İskele Caddesi, No:45",
+    "latitude": 41.0409,
+    "longitude": 29.0042
+  },
+  {
+    "pharmacyName": "Deniz Eczanesi",
+    "district": "Üsküdar",
+    "address": "Üsküdar Sahil Yolu, No:67",
+    "latitude": 41.0212,
+    "longitude": 29.0196
+  },
+  {
+    "pharmacyName": "İstanbul Eczanesi",
+    "district": "Fatih",
+    "address": "Fatih Meydanı, No:12",
+    "latitude": 41.0082,
+    "longitude": 28.9769
+  },
+  {
+    "pharmacyName": "Cem Eczanesi",
+    "district": "Beyoğlu",
+    "address": "İstiklal Caddesi, No:56",
+    "latitude": 41.0288,
+    "longitude": 28.9758
+  }
+]
