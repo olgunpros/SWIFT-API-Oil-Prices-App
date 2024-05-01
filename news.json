@@ -1,0 +1,102 @@
+[
+  {
+    "newsName": "İstanbulda patlama",
+    "subject": "Tehlike",
+    "address": "Sahil yolu, No:43 Esen cadde."
+  },
+  {
+    "newsName": "Yangın İhbarı",
+    "subject": "Acil Durum",
+    "address": "Gül Sokak, No:21"
+  },
+  {
+    "newsName": "Trafiğe Kapanan Yol",
+    "subject": "Ulaşım",
+    "address": "Ankara Caddesi, Köprü altı"
+  },
+  {
+    "newsName": "Hava Durumu Uyarısı",
+    "subject": "Meteoroloji",
+    "address": "İzmir, Kordon"
+  },
+  {
+    "newsName": "Elektrik Kesintisi",
+    "subject": "Altyapı",
+    "address": "Fatih Mahallesi, Yeşil Sokak"
+  },
+  {
+    "newsName": "Kritik Su Kesintisi",
+    "subject": "Altyapı",
+    "address": "Adnan Menderes Bulvarı, No:7"
+  },
+  {
+    "newsName": "Trafik Kazası Bildirimi",
+    "subject": "Kaza",
+    "address": "Esenler Caddesi, O-2 Yolu"
+  },
+  {
+    "newsName": "Yangın Söndürme Tatbikatı",
+    "subject": "Tatbikat",
+    "address": "Atatürk Mahallesi, İtfaiye Sokak"
+  },
+  {
+    "newsName": "Hırsızlık Olayı",
+    "subject": "Güvenlik",
+    "address": "Yıldırım Apartmanı, Kat:3"
+  },
+  {
+    "newsName": "Köpek Isırması Vakası",
+    "subject": "Sağlık",
+    "address": "Şehitler Parkı, Otopark"
+  },
+  {
+    "newsName": "Trafik Lambası Arızası",
+    "subject": "Ulaşım",
+    "address": "Sokak 23, Çarşı Merkezi"
+  },
+  {
+    "newsName": "Su Baskını Alarmı",
+    "subject": "Acil Durum",
+    "address": "Hürriyet Caddesi, No:56"
+  },
+  {
+    "newsName": "Çöp Toplama Grevi",
+    "subject": "Hizmetler",
+    "address": "Belediye Binası Önü, Meydan"
+  },
+  {
+    "newsName": "Toprak Kayması Uyarısı",
+    "subject": "Doğa",
+    "address": "Yıldız Dağı, Giriş Noktası"
+  },
+  {
+    "newsName": "Deprem Simülasyonu Etkinliği",
+    "subject": "Tatbikat",
+    "address": "Şehir Stadyumu, Ana Giriş"
+  },
+  {
+    "newsName": "Bilgisayar Virüsü Uyarısı",
+    "subject": "Teknoloji",
+    "address": "Merkez Bilgisayar Teknolojileri, Plaza No:12"
+  },
+  {
+    "newsName": "Doğalgaz Kaçağı Tespiti",
+    "subject": "Güvenlik",
+    "address": "Orman Sokak, Apartman:5"
+  },
+  {
+    "newsName": "Kapalı Yol Uyarısı",
+    "subject": "Ulaşım",
+    "address": "Yıldız Mahallesi, Ana Cadde"
+  },
+  {
+    "newsName": "Köprü Bakım Çalışmaları",
+    "subject": "Ulaşım",
+    "address": "Boğaziçi Köprüsü, Avrupa Yakası"
+  },
+  {
+    "newsName": "Göçmen Yardım Etkinliği",
+    "subject": "Sosyal Yardım",
+    "address": "Halk Eğitim Merkezi, Toplantı Salonu"
+  }
+]
